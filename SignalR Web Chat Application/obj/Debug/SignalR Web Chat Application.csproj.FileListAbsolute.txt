@@ -71,3 +71,82 @@ C:\Work\NET\SignalR Web Chat Application\SignalR Web Chat Application\bin\Micros
 C:\Work\NET\SignalR Web Chat Application\SignalR Web Chat Application\obj\Debug\SignalR Web Chat Application.csprojResolveAssemblyReference.cache
 C:\Work\NET\SignalR Web Chat Application\SignalR Web Chat Application\obj\Debug\SignalR Web Chat Application.dll
 C:\Work\NET\SignalR Web Chat Application\SignalR Web Chat Application\obj\Debug\SignalR Web Chat Application.pdb
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\csc.exe
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\System.Collections.Immutable.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\vbc.exe
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\VBCSCompiler.exe
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\roslyn\VBCSCompiler.exe.config
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\SignalR Web Chat Application.dll.config
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\SignalR Web Chat Application.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\SignalR Web Chat Application.pdb
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Antlr3.Runtime.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\EntityFramework.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\EntityFramework.SqlServer.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Google.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Web.Infrastructure.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Newtonsoft.Json.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Owin.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Helpers.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Mvc.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Optimization.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Razor.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.WebPages.Deployment.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.WebPages.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.WebPages.Razor.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\WebGrease.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Helpers.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Mvc.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Optimization.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Razor.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.WebPages.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.WebPages.Deployment.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.WebPages.Razor.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Antlr3.Runtime.pdb
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Newtonsoft.Json.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\EntityFramework.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\EntityFramework.SqlServer.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Google.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\obj\Debug\SignalR Web Chat Application.csprojResolveAssemblyReference.cache
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\obj\Debug\SignalR Web Chat Application.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\obj\Debug\SignalR Web Chat Application.pdb
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Net.Http.Formatting.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Http.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Http.WebHost.dll
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Net.Http.Formatting.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Http.xml
+C:\git\github\IncredibleWeb\SignalR-WebChat\SignalR Web Chat Application\bin\System.Web.Http.WebHost.xml
